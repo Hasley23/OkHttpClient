@@ -1,0 +1,1 @@
+Example of Android app with client server interaction (OkHttpClient)
